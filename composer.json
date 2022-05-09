@@ -1,5 +1,6 @@
 {
     "name": "asplinsol/trustshare-api-php",
+    "type": "library",
     "description": "",
     "keywords": [
         "swagger",
@@ -15,7 +16,6 @@
             "homepage": "https://github.com/swagger-api/swagger-codegen"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5",
         "ext-curl": "*",
