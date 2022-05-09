@@ -1,15 +1,16 @@
 {
     "name": "asplinsol/trustshare-api-php",
-    "type": "library",
-    "description": "",
+    "description": "PHP library for access to TrustShare API",
     "keywords": [
         "swagger",
         "php",
         "sdk",
-        "api"
+        "api",
+        "TrustShare"
     ],
     "homepage": "https://github.com/asplinsol",
-    "license": "proprietary",
+    "license": "LGPL-2.1",
+    "stability": "dev",
     "authors": [
         {
             "name": "Swagger and contributors",
